@@ -1,3 +1,5 @@
+Before create highlighter you can go to https://www.image-map.net/ to create your own image highlighter, and you can do everything there
+
 # Mapoid
 Mapoid is a jQuery plugin to create responsive html map area highlighter with area selection. Minified version 8.5 kB
 # Requirements
